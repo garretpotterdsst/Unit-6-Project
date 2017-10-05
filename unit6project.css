@@ -1,0 +1,76 @@
+html{
+  margin-top: 0px;
+}
+.header-text{
+  font-family: 'Germania One', sans-serif;
+  text-indent:15px;
+  font-size: 100px;
+  border-radius: 0px;
+  width:80%;
+}
+p{
+  text-indent: 20px;
+  width:80%;
+}
+.header-subtext{
+  font-family: 'Cinzel', sans-serif;
+  font-size: 15px;
+  text-indent:70px;
+  text-align:left;
+  width:100%
+}
+.top-image{
+  width:80%;
+}
+.header-div{
+  width:60%;
+}
+header{
+width: 100%;
+background-color:#c70808;
+margin-top: 0;
+margin-bottom: 0;
+padding-top: 0px;
+}
+body{
+  background-color:#c70808;
+  font-family:'Playfair Display';
+  border-style:ridge;
+  border-width: 20px;
+}
+
+li{
+  list-style-type:none;
+}
+
+.italics{
+  font-style: italic;
+}
+h1{
+  margin:0;
+}
+h3{
+  font-size: 30px
+}
+h4{
+font-weight: normal;
+}
+h5{
+  font-size:12px;
+font-weight: normal;
+}
+a:link{
+  color:#b739e5;
+}
+a:visited{
+  color:#9e8998;
+}
+.text-decoration
+{
+  text-decoration: underline;
+  font-weight: normal;
+}
+footer{
+  height:30px;
+  width:100%
+}
